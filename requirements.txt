@@ -1,1 +1,4 @@
-pandas scipy openpyxl streamlit
+pandas
+scipy
+openpyxl
+streamlit
