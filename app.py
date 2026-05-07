@@ -7,9 +7,9 @@ import io
 # Configuración de la página
 st.set_page_config(page_title="Conciliador Bancario GNB", layout="wide")
 
-st.title("🏦 Conciliador Bancario Inteligente")
+st.title("🏦 Concilia GNB @JuanS")
 st.markdown("""
-Esta herramienta encuentra la combinación exacta de registros con **Clave 40** que suman el total de los registros con **Clave 50**.
+Diseñado para conciliar de Muchos a un bloque.
 """)
 
 # Botón para subir archivo
