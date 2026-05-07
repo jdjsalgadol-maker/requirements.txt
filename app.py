@@ -16,7 +16,7 @@ hide_streamlit_style = """
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
-st.title("🏦 Concilia GNB @JuanS")
+st.title("🏦 Concilia GNB @JuanS 🤖")
 st.markdown("Diseñado para conciliar de Muchos a un bloque.")
 
 # 2. CARGA DE ARCHIVO
